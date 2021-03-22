@@ -78,6 +78,6 @@ $ docker -v
 6. leave empty for Password
 7. Then click `Connect`
 8. Inside H2-Console, run `SELECT * FROM akun`
-9. And there is the data that you send using `POST REQUEST` exists.
+9. And there are the data that you send using `POST REQUEST` exists.
 
 Done.
